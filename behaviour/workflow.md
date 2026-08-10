@@ -9,6 +9,15 @@ Write it down before you build it.
   - Update the plan if the approach changes mid-execution — don't let it go stale
   - Save only the decision direction to memory, not plan content
 
+### Name Plan Artifacts, Don't Number Them
+
+Anything referenced across sections needs a name that reads cold.
+
+  - Name decisions, questions, slices and stages for what they do — never `Q6`, `A2`, `J1`, `S3`
+  - The test: a sentence citing it reads weeks later without scrolling to a definition
+  - Never let a label imply an order the work doesn't have — `Stage 1b` before `Stage 1` is a trap
+  - When renaming, map old→new in one place and mark the old labels retired
+
 ### Complexity Estimates
 
 Express complexity in terms relevant to the type of work being estimated.
