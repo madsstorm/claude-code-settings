@@ -5,3 +5,5 @@
 @./behaviour/workflow.md
 
 @./behaviour/engineering.md
+
+@./behaviour/code-style.md
